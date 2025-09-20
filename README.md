@@ -2,7 +2,7 @@
 
 ## Overview
 This project analyzes aerospace-related data with the goal of uncovering patterns, performing exploratory data analysis (EDA), and building predictive models.  
-The notebook `AeroData_FullyAnnotated.ipynb` contains the complete workflow with explanations, inline comments, and future improvement suggestions.
+The notebook `AeroData.ipynb` contains the complete workflow with explanations, inline comments, and future improvement suggestions.
 
 ## Contents
 - **AeroData_FullyAnnotated.ipynb**: Main Jupyter Notebook with step-by-step code, markdown explanations, and insights.
@@ -36,16 +36,16 @@ The notebook `AeroData_FullyAnnotated.ipynb` contains the complete workflow with
    - Automating report generation.
 
 ## Requirements
-- Python 3.x
+- Python 3.13
 - Jupyter Notebook
-- Required libraries: pandas, numpy, matplotlib, seaborn, scikit-learn (install via `pip install -r requirements.txt`).
+- Required libraries: pandas, numpy, matplotlib, seaborn, scikit-learn.
 
 ## Usage
 1. Clone this repository or download the notebook.
 2. Place the dataset file in the appropriate directory (update path in the notebook if needed).
 3. Open the notebook in Jupyter:  
    ```bash
-   jupyter notebook AeroData_FullyAnnotated.ipynb
+   jupyter notebook AeroData.ipynb
    ```
 4. Run cells step by step to reproduce the analysis.
 
